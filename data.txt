@@ -1,0 +1,4 @@
+INFO Starting system...
+WARNING Low memory
+ERROR Disk space exceeded
+INFO Cleanup complete
